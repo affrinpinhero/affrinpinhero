@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @affrinpinhero
 - 👀 I’m interested in ... Automotive, IoT, Home Automation, Security, 
 - 🌱 I’m currently learning ... FreeRTOS, AutoSar, MQTT, Secure Element and Wireless communication
-- 💞️ I’m looking to collaborate on ... 
+- 👨‍💻 I'm Currently working on Micrium OS, SE, BLE & RFID
 - 📫 How to reach me ... affrin.pinhero@hotmail.com 
 
 <!---
